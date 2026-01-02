@@ -1,0 +1,7 @@
+name: MegaTorch
+version: '1.0'
+main: com.yovez.megaTorch.MegaTorch
+api-version: '1.21'
+commands:
+  megatorch:
+    description: Mega Torches

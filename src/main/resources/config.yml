@@ -1,0 +1,10 @@
+settings:
+  radius: 64
+  item:
+    material: TORCH
+    max_stack_size: 64
+    name: '&6Mega Torch'
+    lore:
+      - '&eWhen placed prevents mobs from spawning'
+      - '&eup to 64 blocks around it.'
+megatorches: []

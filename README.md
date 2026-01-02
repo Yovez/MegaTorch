@@ -3,8 +3,8 @@
 When a **MegaTorch** is placed, in the defined radius in the config file (default radius of 64 blocks) it prevents monsters from spawning inside of that radius.
 
 Commands & Permissions:
-/megatorch reload - megatorch.reload
-/megatorch give <player> [amount] - megatorch.give
+- /megatorch reload - megatorch.reload
+- /megatorch give <player> [amount] - megatorch.give
 
 Config Settings:
 
